@@ -16,5 +16,3 @@
 8. Pour trouver tous les fichiers commençant par "A" ou "a", on peut utiliser la commande : 'find -name "A\*" ! -name "a\*"'.
 9. Pour trouver les fichiers plus récemment modifié qu'un autre fichier spécifié, on utilise la commande : "find -anewer nom_du_fichier_specifique".
 10. Pour trouver un fichier finissant par l'extension ".o" et le supprimer, il faut utiliser la commande : "find -name "\*.c" -exec rm -f {} \;"
-
-Bonne journée
