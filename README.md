@@ -1,4 +1,7 @@
-# Travail pratique OS (1)
+# 1718_INFOB231_G05
+INFOB231 - TP - G05
+
+# Rapport de travail 1
 ## Exercice 3
 1. On se place tout d'abord dans le répertoire de connexion grâce à la commande "cd". Puis, pour créer le répertoire "exo", nous utiliserons la commande : "mkdir exo". 
 * "pwd" affiche le chemin absolu du répertoire "exo" : /home/users/100/twautele/exo
